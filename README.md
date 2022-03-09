@@ -1,24 +1,8 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# 
+# ・日めくりカレンダー
+# ・百均の名言カレンダーをアプリ化したもの
+# ・1日の隙間時間になんとなくスマホを眺める際に利用
+# ・ユーザーの投稿(クリップ)が翌月のカレンダーの1日分となる
+# ・ユーザーが目から鱗した言葉の切り抜き(クリップ)を投稿し、
+# いいねが多いクリップが翌月の名言の1日分(ゴールデンクリップ)としてランダムに選抜される
+# ・クリップは1ヶ月で削除もしくは一定の数を残し削除される
